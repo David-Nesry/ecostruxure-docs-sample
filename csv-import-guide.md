@@ -14,14 +14,16 @@ CSV import is ideal for:
 
 ### 1. Room Configuration
 
-```csv
+# csv
+
 room_id,room_name,floor,area_sqft
 A101,Conference Room 1,1,350
 B202,Office 2,2,180
 
 ## Sensor Telemetry
 
-```csv
+# csv
+
 timestamp,room_id,temperature,humidity
 2025-08-18T12:00:00Z,A101,22.5,45
 2025-08-18T12:05:00Z,A101,22.6,44
@@ -56,5 +58,6 @@ timestamp,room_id,temperature,humidity
 | "Invalid header format" | Check for typos or extra whitespace | 
 | "Timestamp parse error" | Use ISO 8601 format | 
 | "Duplicate room ID" | Ensure unique identifiers per row | 
+
 
 
