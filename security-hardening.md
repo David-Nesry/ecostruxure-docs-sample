@@ -1,4 +1,7 @@
-{% include nav.md %}
+---
+title: Security Hardening Guide
+nav_order: 4
+---
 
 # Security Hardening Guide – EcoStruxure Building Data Platform
 
@@ -31,4 +34,5 @@ This guide outlines best practices for securing integrations and data flows with
 - Set up alerts for failed authentication attempts.
 
 - Review access logs regularly for anomalies.
+
 
