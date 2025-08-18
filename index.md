@@ -12,7 +12,8 @@ Feel free to explore the files in this repository or view them directly on this 
 
 ---
 
-👉 [View the REST API Guide](api-guide.md)  
-👉 [Explore GraphQL API](graphql-overview.md)  
-👉 [Security Hardening](security-checklist.md)  
-👉 [CSV Import Workflow](csv-import.md)
+👉 [View the REST API Guide](open-connector-api.md)  
+👉 [Explore GraphQL API](graphql-api-guide.md)  
+👉 [Security Hardening](security-hardening.md)  
+
+👉 [CSV Import Workflow](csv-import-guide.md)
