@@ -1,3 +1,5 @@
+{% include nav.md %}
+
 # EcoStruxure Building Docs Sample
 
 Welcome to the documentation sample for the EcoStruxure Building Data Platform.
@@ -17,3 +19,4 @@ Feel free to explore the files in this repository or view them directly on this 
 👉 [Security Hardening](security-hardening.md)  
 
 👉 [CSV Import Workflow](csv-import-guide.md)
+
