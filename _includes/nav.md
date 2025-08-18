@@ -1,6 +1,11 @@
 ---
 
 **📚 Documentation Navigation**  
-[🏠 Home](index.md) | [🔧 Open Connector API](open-connector-api.md) | [🔍 GraphQL API](graphql-api-guide.md) | [📄 CSV Import Guide](csv-import-guide.md) | [🔐 Security Hardening](security-hardening.md) | [📈 Usage Analytics](usage-analytics.md)
+[🏠 Home](https://david-nesry.github.io/ecostruxure-docs-sample/) |  
+[🔧 Open Connector API](https://david-nesry.github.io/ecostruxure-docs-sample/open-connector-api) |  
+[🔍 GraphQL API Guide](https://david-nesry.github.io/ecostruxure-docs-sample/graphql-api-guide) |  
+[📄 CSV Import Guide](https://david-nesry.github.io/ecostruxure-docs-sample/csv-import-guide) |  
+[🔐 Security Hardening](https://david-nesry.github.io/ecostruxure-docs-sample/security-hardening) |  
+[📈 Usage Analytics](https://david-nesry.github.io/ecostruxure-docs-sample/usage-analytics)
 
 ---
