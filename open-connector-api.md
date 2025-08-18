@@ -1,4 +1,7 @@
-{% include nav.md %}
+---
+title: Open Connector
+nav_order: 3
+---
 
 # Open Connector Framework – REST API Guide
 
@@ -54,3 +57,4 @@ Content-Type: application/json
 | 1.0 | 2025-08-01 | Initial release | 
 
 | 1.1 | 2025-08-18 | Added heartbeat monitoring | 
+
