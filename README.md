@@ -12,7 +12,8 @@ These samples demonstrate clarity, modularity, and technical depth for smart bui
 
 ## Contents
 
-- [Open Connector API Guide](open-connector-api.md)
-- [GraphQL API Guide](graphql-api-guide.md)
-- [Security Hardening Guide](security-hardening.md)
-- [CSV Data Import Guide](csv-import-guide.md)
+- [Open Connector API Guide](open-connector-api)
+- [GraphQL API Guide](graphql-api-guide)
+- [Security Hardening Guide](security-hardening)
+- [CSV Data Import Guide](csv-import-guide)
+
