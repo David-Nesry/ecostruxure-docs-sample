@@ -1,3 +1,27 @@
-markdown: kramdown
+remote_theme: just-the-docs/just-the-docs
+title: EcoStruxure Docs
+description: Documentation for EcoStruxure APIs
+color_scheme: light
 
-theme: jekyll-theme-leap-day
+# Optional logo
+logo: /assets/images/logo.png
+
+# Enable sidebar navigation
+just_the_docs:
+  navigation:
+    structure: nested
+  search_enabled: true
+  show_last_updated_time: true
+
+# Set base URL if hosted in a subdirectory
+# baseurl: "/your-repo-name"
+
+# Markdown files to include in sidebar
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
