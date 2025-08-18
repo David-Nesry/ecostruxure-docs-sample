@@ -1,3 +1,5 @@
+{% include nav.md %}
+
 # GraphQL API Guide – EcoStruxure Building Data Platform
 
 ## Overview
@@ -36,4 +38,5 @@ query {
 
 - Use JWT tokens for authentication.
 - Limit query depth to prevent abuse.
+
 - Monitor query performance and caching.
