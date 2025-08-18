@@ -1,4 +1,7 @@
-{% include nav.md %}
+---
+title: GraphQL API
+nav_order: 2
+---
 
 # GraphQL API Guide – EcoStruxure Building Data Platform
 
@@ -40,3 +43,4 @@ query {
 - Limit query depth to prevent abuse.
 
 - Monitor query performance and caching.
+
