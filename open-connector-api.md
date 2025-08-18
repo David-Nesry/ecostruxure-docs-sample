@@ -1,3 +1,5 @@
+{% include nav.md %}
+
 # Open Connector Framework – REST API Guide
 
 ## Overview
@@ -50,4 +52,5 @@ Content-Type: application/json
 ## Changelog
 | Version | Date | Changes | 
 | 1.0 | 2025-08-01 | Initial release | 
+
 | 1.1 | 2025-08-18 | Added heartbeat monitoring | 
