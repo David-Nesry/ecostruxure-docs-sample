@@ -1,5 +1,3 @@
-security-hardening.md
-
 ```markdown
 # Security Hardening Guide – EcoStruxure Building Data Platform
 
@@ -30,4 +28,5 @@ This guide outlines best practices for securing integrations and data flows with
 
 - Enable audit logging for all API activity.
 - Set up alerts for failed authentication attempts.
+
 - Review access logs regularly for anomalies.
