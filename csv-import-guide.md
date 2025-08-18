@@ -1,3 +1,5 @@
+{% include nav.md %}
+
 # CSV Data Import Guide – EcoStruxure Building Data Platform
 
 ## Overview
@@ -58,6 +60,7 @@ timestamp,room_id,temperature,humidity
 | "Invalid header format" | Check for typos or extra whitespace | 
 | "Timestamp parse error" | Use ISO 8601 format | 
 | "Duplicate room ID" | Ensure unique identifiers per row | 
+
 
 
 
