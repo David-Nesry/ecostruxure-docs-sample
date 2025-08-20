@@ -19,7 +19,7 @@ This guide explains how to integrate the EcoStruxure Building Data Platform with
 
 Use Azure CLI or Portal:
 
-```bash
+## Bash
 
 az iot hub device-identity create --hub-name <your-hub> --device-id <device-name>
 
@@ -65,3 +65,4 @@ Use Azure Event Hub or Stream Analytics to route data to dashboards or storage.
 
 - [EcoStruxure Integration Patterns](https://david-nesry.github.io/ecostruxure-docs-sample/)  
   Sample documentation site showcasing integration guides and developer resources for EcoStruxure Building Data Platform.
+
